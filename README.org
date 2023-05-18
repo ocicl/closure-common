@@ -1,0 +1,9 @@
+* closure-common
+
+closure-common is an internal helper library for the closure web browser.
+
+|---------+--------------------------------------------------------|
+| source  | git:https://github.com/sharplispers/closure-common.git |
+| commit  | e3c5f5f                                                |
+| systems | closure-common                                         |
+|---------+--------------------------------------------------------|
